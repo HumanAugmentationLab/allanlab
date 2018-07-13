@@ -1,0 +1,9 @@
+- title: "Iris Recognition"
+  image: Iris.png
+  description: We are building an iris recognition system to greet people in the lab!
+  authors: Nick, Aurora, Yichen, Josh
+#  link:
+#    url: 
+    display:  
+  highlight: 1
+  news2: 
