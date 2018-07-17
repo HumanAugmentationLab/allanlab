@@ -10,12 +10,12 @@
 
 
 - title: "Weeping Angel: Human-Machine Interface"
-	image: images/projpic/angel/origangeldark.png
-    description: Control a robot just by looking at it. This project is based on [the creepy weeping angels from Dr. Who](https://youtu.be/ByPrDPbdRhc?t=1m32s) or the childhood game of *red light, green light*. Using an inexpensive EEG/EMG headset, our system aims to detect when you blink or close your eyes and signals to the weeping angel robot to drive toward you. This project combines signal processing, machine learning, and robotics.
+  image: images/projpic/angel/origangeldark.png
+  description: Control a robot just by looking at it. This project is based on [the creepy weeping angels from Dr. Who](https://youtu.be/ByPrDPbdRhc?t=1m32s) or the childhood game of *red light, green light*. Using an inexpensive EEG/EMG headset, our system aims to detect when you blink or close your eyes and signals to the weeping angel robot to drive toward you. This project combines signal processing, machine learning, and robotics.
     #authors:
-    #link: url: display:
-    highlight: 1
-    news2:
+    #link: url: display:    
+  highlight: 1
+  news2:
 
 - title: "Iris Recognition"
   image: images/projpic/iris/Yeye.jpg
