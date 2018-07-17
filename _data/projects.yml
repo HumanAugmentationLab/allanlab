@@ -1,5 +1,5 @@
--title: "Detecting attention to videos"
-	image: images/projpic/eegbackhead-narrow.png
+- title: "Detecting attention to videos"
+	image: "images/projpic/eegbackhead-narrow.png"
     description: Can we determine what a person is paying attention to on a screen? We are testing an experimental paradigm to determine how well we can decode which of two videos a person is watching. The long-term applications include giving people feedback when they get distracted (ideally to help train people to have more control over their own attention) and translation to “real world” attention detection outside of the laboratory.
     #authors:
     #link:
