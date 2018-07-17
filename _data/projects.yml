@@ -1,5 +1,5 @@
 - title: "Detecting attention to videos"
-  image: "images/projpic/eegbackhead-narrow.png"
+  image: projpic/eegbackhead-narrow.png
   description: Can we determine what a person is paying attention to on a screen? We are testing an experimental paradigm to determine how well we can decode which of two videos a person is watching. The long-term applications include giving people feedback when they get distracted (ideally to help train people to have more control over their own attention) and translation to “real world” attention detection outside of the laboratory.
     #authors:
     #link:
@@ -10,7 +10,7 @@
 
 
 - title: "Weeping Angel: Human-Machine Interface"
-  image: images/projpic/angel/origangeldark.png
+  image: projpic/angel/origangeldark.png
   description: Control a robot just by looking at it. This project is based on [the creepy weeping angels from Dr. Who](https://youtu.be/ByPrDPbdRhc?t=1m32s) or the childhood game of *red light, green light*. Using an inexpensive EEG/EMG headset, our system aims to detect when you blink or close your eyes and signals to the weeping angel robot to drive toward you. This project combines signal processing, machine learning, and robotics.
     #authors:
     #link: url: display:    
@@ -18,7 +18,7 @@
   news2:
 
 - title: "Iris Recognition"
-  image: images/projpic/iris/Yeye.jpg
+  image: projpic/iris/Yeye.jpg
   description: We are building an iris recognition system to greet people in the lab! Our system will take an image of your iris using a camera and infrared LEDs. Using our Python code, the image is transformed and key features are extracted. These features are compared to our iris database to determine if you are a member of the lab. Lab members will receive a special greeting... [Dave may run into issues.](https://youtu.be/qDrDUmuUBTo)
   #authors: Nick, Aurora, Yichen, Josh
   link:
