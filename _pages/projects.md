@@ -1,9 +1,10 @@
 ---
-title: "HAL - Projects"
+title: HAL - Projects
 layout: gridlay
-excerpt: "HAL -- Projectss."
+excerpt: HAL -- Projectss.
 sitemap: false
 permalink: /projects/
+published: true
 ---
 
 
@@ -22,7 +23,7 @@ permalink: /projects/
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
