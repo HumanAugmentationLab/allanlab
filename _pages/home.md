@@ -38,7 +38,7 @@ Our work aims to understand human attention and memory and to use this knowledge
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/summer2017team1400.png" alt="Slide 5" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/beakersamskeptical1400.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/beakersamexcited1400.jpg" alt="Slide 6" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
