@@ -1,6 +1,22 @@
-- date: 13. July 2018
-  headline: "We finally started a website. Happy Friday the 13th!"
+﻿- date: March 30, 2018
+  headline: "Thanks to Valve for the HTC Vive! Fun new projects are now possible! <img src='/images/projpic/htcvalveava2000.png' class='img-responsive' style='max-width: 192px' />"
+
+- date: December 12, 2017
+  headline: "Neurotechnology, Brains and Machines final presentations with special guests from Bose and Boston University. <img src='/images/newspic/Neurotech-finalprez.jpg' class='img-responsive' style='max-width: 192px' /> Plus a sensory flavor-tripping party where sour becomes sweet.<img src='/images/newspic/Neurotech-flavortripping.jpg' class='img-responsive' style='max-width: 192px' /> <img src='/images/newspic/Neurotech-RoccoLemon.jpg' class='img-responsive' style='max-width: 192px' />"
+
+- date: December 09, 2017
+  headline: "<a href='https://brain.ieee.org/news/call-participation-ieee-brain-data-bank-challenge-boston/'>IEEE Brain Data Bank Competition</a> in Cambridge (co-organized by Drs. Sam Michalka & Seth Elkin-Frankston). Sam gave a talk about using the data from this competition in her Neurotechnology, Brains and Machines course."
+
+- date: September 05, 2017
+  headline: "First day of Dr. Sam Michalka's new course Neurotechnology, Brains and Machines. <img src='/images/newspic/Sam-Neurotech-questions.jpg' class='img-responsive' style='max-width: 192px' />"
+
+- date: December 02, 2016
+  headline: "Superstar first-year students (Will, Gracey, Minju, and Ava) built a single channel EEG for their final iSIM project. <img src='/images/teampic/2016-12-02.jpg' class='img-responsive' style='max-width: 192px' />"
   
+- date: September 29, 2016
+  headline: "The first BCI reading group meeting! The precursor to HAL dives in with Herrmann, 2001."
+
+
 #- date: 04. June 2018
 #  headline: "We posted the technical details of our MHz amplifier for STM on <a href='https://arxiv.org/abs/1806.00374'>arXiv</a>. <img src='/images/newspic/amp.PNG' class='img-responsive' style='max-width: 192px' />"
 #
