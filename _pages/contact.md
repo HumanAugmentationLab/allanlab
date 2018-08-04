@@ -15,7 +15,7 @@ We are excited to work together with people and organizations who want to make t
 #### Learn to conduct research and work on interesting projects (Students) 
 Join our team! Reach out to Sam or one of the lab members to find out more about our lab meeting and openings.
 
-
+&nbsp;
   
 #### Collaborate on a project (Industry & Universities)
 We are excited to work with industry, non-profits, and other researchers through collaborative projects and consulting. Dr. Sam Michalka brings experience in cognitive neuroscience, data analysis, and engineering. Olin College faculty own and control our intellectual property, supporting easy collaboration with industry. Our engineering students are bright, enthusiastic, and prepared for hands-on projects. Email Dr. Michalka to discuss potential projects.
