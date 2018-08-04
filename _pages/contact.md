@@ -8,7 +8,7 @@ published: true
 ---
 
 ### Get involved with HAL!
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/beakersamskepticalsquare.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/beakersamskepticalsquare.png){: style="width: 300px; float: right; border: 10px; padding-left: 40px"}
 We are excited to work together with people and organizations who want to make the world better through technology and knowledge. 
 &nbsp;
     
