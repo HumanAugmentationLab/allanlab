@@ -8,23 +8,18 @@ published: true
 ---
 
 ## Dr. Sam Michalka
-
-Assistant Professor
-
-Computational Neuroscience and Engineering 
-
-Franklin W. Olin College of Engineering
  
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 200px; float: right; border: 30px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 250px; float: right; border: 30px"}
+Assistant Professor
+Computational Neuroscience and Engineering 
+Franklin W. Olin College of Engineering
+
 
 ### Education & Industry Experience
 
 Ph.D., Computational Neuroscience, Boston University
-
 M.A., Psychology (Brain, Behavior, & Cognition), Boston University
-
 B.S., Psychological Science, Worcester Polytechnic Institute
-
 B.S., Mechanical Engineering, Worcester Polytechnic Institute
 
   
@@ -32,7 +27,7 @@ Prior to joining Olin, I was a postdoctoral fellow in the Center for Computation
 
 
 ### Research 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sampialnobkd.png){: style="width: 300px; float: right; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/sampialnobkd.png){: style="width: 250px; float: right; border: 10px"}
 My research combines cognitive neuroscience, data analysis, and engineering.  I'm excited about developing technologies that improve the human experience. 
 
 Areas of interest and expertise:
