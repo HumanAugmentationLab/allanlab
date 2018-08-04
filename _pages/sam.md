@@ -9,7 +9,7 @@ published: true
 
 ## Dr. Sam Michalka
  
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 250px; float: right; border: 80px; padding: 80px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 300px; float: right; padding: 40px"}
 Assistant Professor  
 Computational Neuroscience and Engineering   
 Franklin W. Olin College of Engineering  
