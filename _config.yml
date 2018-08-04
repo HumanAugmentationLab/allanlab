@@ -7,7 +7,7 @@
 
 # Site settings
 title: Human Augmentation Lab
-subtitle: Hello, HAL
+subtitle: HAL
 email: sam@olin.edu
 description: > # this means to ignore newlines until "baseurl:"
  The Human Augmentation Lab (HAL) is a research group at Olin College of Engineering directed by Dr. Sam Michalka. 
@@ -16,6 +16,7 @@ description: > # this means to ignore newlines until "baseurl:"
 #  Google search results) and in your feed.xml site description.
 baseurl: ""
 url: "https://humanaugmentationlab.github.io"
+keywords: "brain-machine interface, neuroscience, augmented reality, augmentation, human-machine, brain"
 
 include:
   - .htaccess
@@ -31,7 +32,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-
+# Plugin for search engines
+plugins:
+  - jekyll-seo-tag
 
 # Markdown Processing
 kramdown:
@@ -44,4 +47,3 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
-
