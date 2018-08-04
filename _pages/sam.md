@@ -9,13 +9,14 @@ published: true
 
 ## Dr. Sam Michalka
 >Assistant Professor
->Computational Neuroscience and Engineering
+>Computational Neuroscience and Engineering 
+
 >Franklin W. Olin College of Engineering
  
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 300px; float: left; border: 10px"}
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Samlaptop.jpg){: style="width: 200px; float: left; border: 30px"}
 
-## Education & Industry Experience
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/sampialnobkd.png){: style="width: 300px; float: right; border: 10px"}
+### Education & Industry Experience
+
 Ph.D., Computational Neuroscience, Boston University
 M.A., Psychology (Brain, Behavior, & Cognition), Boston University
 B.S., Psychological Science, Worcester Polytechnic Institute
@@ -25,8 +26,9 @@ Prior to joining Olin, I was a postdoctoral fellow in the Center for Computation
 
 
 
-## Research 
+### Research 
 My research combines cognitive neuroscience, data analysis, and engineering.  I'm excited about developing technologies that improve the human experience. 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/sampialnobkd.png){: style="width: 300px; float: right; border: 10px"}
 
 Areas of interest and expertise:
 - Brain-machine interfaces
@@ -37,6 +39,6 @@ Areas of interest and expertise:
 
 Check out some of [my lab's projects](projects) and my [publications on Google Scholar](https://scholar.google.com/citations?user=UxK7PWwAAAAJ&hl=en&oi=ao).
 
-## Interested in working together? 
+### Interested in working together? 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/beakersamskepticalsquare.png){: style="width: 300px; float: right; border: 10px"}
 I am available for technical project consulting, research collaborations, sponsored projects, and education workshops. [Email me](sam@olin.edu) or check out [ways to get involved with our lab](contact).
