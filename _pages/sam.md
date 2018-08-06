@@ -13,6 +13,7 @@ published: true
 Assistant Professor  
 Computational Neuroscience and Engineering   
 Franklin W. Olin College of Engineering  
+Milas Hall 357 | sam at olin dot edu
 
 
 ### Education & Industry Experience
@@ -40,4 +41,4 @@ Areas of interest and expertise:
 Check out some of [my lab's projects](/projects) and my [publications on Google Scholar](https://scholar.google.com/citations?user=UxK7PWwAAAAJ&hl=en&oi=ao).
 
 ### Interested in working together? 
-I am available for technical project consulting, research collaborations, sponsored projects, and education workshops. [Email me]<sam@olin.edu> or check out [ways to get involved with our lab]({{ site.url }}{{ site.baseurl }}/contact).
+I am available for technical project consulting, research collaborations, sponsored projects, and education workshops. [Email me](mailto:sam@olin.edu) or check out [ways to get involved with our lab]({{ site.url }}{{ site.baseurl }}/contact).
