@@ -37,7 +37,7 @@ Areas of interest and expertise:
 - Auditory and visual perception
 - Data analysis, statistics, and machine learning
 
-Check out some of [my lab's projects](projects) and my [publications on Google Scholar](https://scholar.google.com/citations?user=UxK7PWwAAAAJ&hl=en&oi=ao).
+Check out some of [my lab's projects](/projects) and my [publications on Google Scholar](https://scholar.google.com/citations?user=UxK7PWwAAAAJ&hl=en&oi=ao).
 
 ### Interested in working together? 
-I am available for technical project consulting, research collaborations, sponsored projects, and education workshops. [Email me]<sam@olin.edu> or check out [ways to get involved with our lab](contact).
+I am available for technical project consulting, research collaborations, sponsored projects, and education workshops. [Email me]<sam@olin.edu> or check out [ways to get involved with our lab]({{ site.url }}{{ site.baseurl }}/contact).
