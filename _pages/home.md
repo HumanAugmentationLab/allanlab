@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-Our work aims to understand human attention and memory and to use this knowledge to develop personal technological devices that can respond to our intentions and cognitive states. Combining neuroscience and engineering, we conduct experiments about human behavior, record and analyze physiological signals, and explore emerging hardware technology. 
+Our work aims to understand human attention and memory and to use this knowledge to develop personal technological devices that can respond to our intentions and cognitive states. Combining neuroscience and engineering, we conduct experiments about human behavior, record and analyze physiological signals, and explore emerging technologies. 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -51,7 +51,7 @@ Our work aims to understand human attention and memory and to use this knowledge
   </a>
 </div>
 
-The lab is directed by [Dr. Sam Michalka](sam) at [Olin College of Engineering](http://http://www.olin.edu/) and supports deep research experiences for undergraduate students. Check out some of our [current projects](projects) and [reach out to us](contact) if you're interested in getting involved.
+The lab is directed by [Dr. Sam Michalka](sam) at [Olin College of Engineering](http://www.olin.edu/) and supports deep research experiences for undergraduate students. Check out some of our [current projects](projects) and [reach out to us](contact) if you're interested in getting involved.
 
 <!-- <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
