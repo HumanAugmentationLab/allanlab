@@ -34,8 +34,8 @@ incremental: false
 
 # Plugin for search engines
 plugins:
-  - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Markdown Processing
 kramdown:
