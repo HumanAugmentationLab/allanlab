@@ -2,7 +2,7 @@
 title: "Human Augmentation Lab"
 layout: homelay
 excerpt: "HAL at Olin College of Engineering."
-sitemap: false
+sitemap: true
 permalink: /
 ---
 
