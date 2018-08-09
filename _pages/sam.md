@@ -2,7 +2,7 @@
 title: HAL - Sam Michalka
 layout: textlay
 excerpt: Sam Michalka
-sitemap: false
+sitemap: true
 permalink: /sam/
 published: true
 ---
