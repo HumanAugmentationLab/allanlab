@@ -2,7 +2,7 @@
 title: HAL - Projects
 layout: gridlay
 excerpt: HAL -- Projectss.
-sitemap: false
+sitemap: true
 permalink: /projects/
 published: true
 ---
