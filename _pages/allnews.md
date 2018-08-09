@@ -2,7 +2,7 @@
 title: News
 layout: textlay
 excerpt: Human Augmentation Lab (HAL).
-sitemap: false
+sitemap: true
 permalink: /allnews.html
 published: true
 ---
