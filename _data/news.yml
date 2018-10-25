@@ -1,4 +1,10 @@
-﻿- date: March 30, 2018
+﻿- date: September 06, 2018
+  headline: "Hwei-Shin takes the Magic Leap into the world of mixed reality. We're currently working to develop neuroscience experiments using our fun new toy! <img src='/images/newspic/ML-HH.jpg' class='img-responsive' style='max-width: 192px' />"
+
+- date: August 31, 2018
+  headline: "HAL wins a Quadro P6000 through the <a href='https://developer.nvidia.com/academic_gpu_seeding'>NVIDIA GPU grant</a>. Thanks for supporting our research, NVIDIA!"
+
+- date: March 30, 2018
   headline: "Thanks to Valve for the HTC Vive! Fun new projects are now possible! <img src='/images/projpic/htcvalveava2000.png' class='img-responsive' style='max-width: 192px' />"
 
 - date: December 12, 2017
