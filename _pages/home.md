@@ -17,6 +17,8 @@ Our work aims to understand human attention and memory and to use this knowledge
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
+        <li data-target="#carousel" data-slide-to="6"></li>
+    
     </ol>
 
     <!-- Items -->
@@ -26,7 +28,7 @@ Our work aims to understand human attention and memory and to use this knowledge
             <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/eegbackhead.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/iris/iriscamera1400.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ML-WD - wide.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/eegteam.png" alt="Slide 3" />
@@ -39,6 +41,9 @@ Our work aims to understand human attention and memory and to use this knowledge
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/beakersamexcited1400.jpg" alt="Slide 6" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/iris/iriscamera1400.png" alt="Slide 7" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
