@@ -17,7 +17,6 @@ Our work aims to understand human attention and memory and to use this knowledge
         <li data-target="#carousel" data-slide-to="3"></li>
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
-        <li data-target="#carousel" data-slide-to="6"></li>
     
     </ol>
 
@@ -37,13 +36,10 @@ Our work aims to understand human attention and memory and to use this knowledge
             <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/iris/ircircuit1400.png" alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/summer2017team1400.png" alt="Slide 5" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/iris/iriscamera1400.png" alt="Slide 5" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/beakersamexcited1400.jpg" alt="Slide 6" />
-        </div>
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/projpic/iris/iriscamera1400.png" alt="Slide 7" />
         </div>
     </div> 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
